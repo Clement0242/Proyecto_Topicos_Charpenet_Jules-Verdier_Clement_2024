@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "Arrival",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY3NzY5MF5BMl5BanBnXkFtZTgwOTk4MDQ5OTE@._V1_.jpg",
+        "plot": "A linguist works to communicate with extraterrestrial visitors.",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "2",
+        "title": "Gravity",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU5MzgzNDkzM15BMl5BanBnXkFtZTcwODg1OTg3OQ@@._V1_.jpg",
+        "plot": "Two astronauts struggle to survive after an accident in space.",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": "3",
+        "title": "Her",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNzY4MF5BMl5BanBnXkFtZTgwNzU1NzE5MDE@._V1_.jpg",
+        "plot": "A man falls in love with an intelligent operating system.",
+        "genre": "Drama"
+    },
+    {
+        "id": "4",
+        "title": "The Imitation Game",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQxNjcxNTY0MF5BMl5BanBnXkFtZTgwNjk5MDIwMzE@._V1_.jpg",
+        "plot": "The story of Alan Turing cracking the Enigma code during WWII.",
+        "genre": "Drama"
+    },
+    {
+        "id": "5",
+        "title": "The Departed",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NjA4NjI3OF5BMl5BanBnXkFtZTcwNzU0NTkzMw@@._V1_.jpg",
+        "plot": "An undercover cop and a mole in the police attempt to identify each other.",
+        "genre": "Crime"
+    },
+    {
+        "id": "6",
+        "title": "Heat",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNTk4NjkxMF5BMl5BanBnXkFtZTcwNzU0MzUzOA@@._V1_.jpg",
+        "plot": "A heist gone wrong leads to a clash between a detective and a criminal mastermind.",
+        "genre": "Crime"
+    },
+    {
+        "id": "7",
+        "title": "Logan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQyMjg3NjM5MF5BMl5BanBnXkFtZTgwNzM4MDQ1MTI@._V1_.jpg",
+        "plot": "An aged Wolverine cares for Professor X while protecting a young mutant.",
+        "genre": "Action"
+    },
+    {
+        "id": "8",
+        "title": "Casino Royale",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQwMzQ4MDYxM15BMl5BanBnXkFtZTcwMzA5ODU0MQ@@._V1_.jpg",
+        "plot": "James Bond’s first mission as 007.",
+        "genre": "Action"
+    },
+    {
+        "id": "9",
+        "title": "Braveheart",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjExNDM1MTA1OF5BMl5BanBnXkFtZTcwMTI5MTU4Mg@@._V1_.jpg",
+        "plot": "William Wallace leads a revolt against English tyranny.",
+        "genre": "History"
+    },
+    {
+        "id": "10",
+        "title": "The Last Samurai",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzg1ODMyMF5BMl5BanBnXkFtZTcwNDg0MDQzMw@@._V1_.jpg",
+        "plot": "An American soldier joins a Samurai rebellion in Japan.",
+        "genre": "History"
+    }
+]
